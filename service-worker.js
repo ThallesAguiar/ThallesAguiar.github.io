@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9cd2d5819c2630ff3c9bfd6ae00f25d5.js"
+  "/precache-manifest.6dbcd0e59b9d9da1ea11c3cb0f27af83.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "thalles-pizzas-caseiras"});
